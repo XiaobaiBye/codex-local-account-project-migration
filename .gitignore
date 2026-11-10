@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.test-*/
+*.gz
+*.zip
+*.sqlite*
+*.db*
+*.log
+*.tmp
+auth.json
+rollback-info.json
+*snapshot*.json
+plan.json
+inventory.json
+migration-result.json

@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地账号项目迁移"
+  short_description: "迁移本机账号的项目及会话归属，验证后清理冗余并只保留一份回退备份"
+  default_prompt: "使用 $local-account-project-migration 完成本地账号项目迁移，保留项目和会话归属，验证成功后清理冗余，下一次迁移时轮换唯一的压缩回退备份。"
